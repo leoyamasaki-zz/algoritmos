@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
 # http://www.github.com/leoyamasaki
-#git clone git://github.com/leoyamasaki/poo.git
+# git clone git://github.com/leoyamasaki/algoritmos.git
+# lo anterior solo una vez luego solo:
+# git pull
+#
 if ARGV.length == 0
   puts "Uso dec2bin numero\n"
   exit  
