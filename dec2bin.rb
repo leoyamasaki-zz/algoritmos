@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 # http://www.github.com/leoyamasaki
-#git clone git://github.com/leoyamasaki/poo.git
+#git clone git://github.com/leoyamasaki/algoritmos.git
 if ARGV.length == 0
   puts "Uso dec2bin numero\n"
   exit  
