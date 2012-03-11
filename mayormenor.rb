@@ -11,3 +11,4 @@ end
   puts (rand*100+1).to_i.to_s + " "
 end
 
+
